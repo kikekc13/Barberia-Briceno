@@ -1,0 +1,13 @@
+Fonts used in this design:
+
+Font: Abril Fatface
+Author: TypeTogether
+Url: http://www.fontsquirrel.com/fonts/abril-fatface
+
+Font: Alfa Slab
+Author: JM Solé
+Url: http://www.fontsquirrel.com/fonts/alfa-slab
+
+Font: Montserrat
+Author: Julieta Ulanovsky
+Url: http://www.fontsquirrel.com/fonts/montserrat
